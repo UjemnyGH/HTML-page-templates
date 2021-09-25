@@ -1,0 +1,38 @@
+#container
+{
+    background-color: #003746;
+    color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1280px;
+    min-height: 100px;
+    padding: 10px;
+}
+
+#logo
+{
+    background-color: #957629;
+    color: #ffffff;
+    max-width: 100%;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+#content
+{
+    background-color: #763726;
+    max-width: 100%;
+    height: 500px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#footer
+{
+    background-color: #537892;
+    height: 80px;
+    max-width: 100%;
+    padding: 5px;
+}
